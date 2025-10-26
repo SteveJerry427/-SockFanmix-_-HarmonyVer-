@@ -672,6 +672,7 @@
     {"id":{"name":"sprCapsuleButton","path":"sprites/sprCapsuleButton/sprCapsuleButton.yy",},},
     {"id":{"name":"sprCapsulePiece","path":"sprites/sprCapsulePiece/sprCapsulePiece.yy",},},
     {"id":{"name":"Sprite266","path":"sprites/Sprite266/Sprite266.yy",},},
+    {"id":{"name":"Sprite279","path":"sprites/Sprite279/Sprite279.yy",},},
     {"id":{"name":"tex_lut_debug","path":"sprites/tex_lut_debug/tex_lut_debug.yy",},},
     {"id":{"name":"tex_ndz1_tilewip","path":"sprites/tex_ndz1_tilewip/tex_ndz1_tilewip.yy",},},
     {"id":{"name":"tex_pal_textselect1","path":"sprites/tex_pal_textselect1/tex_pal_textselect1.yy",},},

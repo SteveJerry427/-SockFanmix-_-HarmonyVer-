@@ -3,7 +3,7 @@ function player_animation_list(){
 	{
 		case CHAR_SONIC:
 		animation_add(ANIM_STAND, spr_sonic_idle, 0.2)
-		animation_add(ANIM_WAIT, spr_sonic_waiting, 20, 2, true, true);
+		animation_add(ANIM_WAIT, spr_sonic_waiting, 16, 2, true, true);
 		animation_add(ANIM_WALK, spr_sonic_walk, 3, 0, true, true);
 		animation_add(ANIM_RUN, spr_sonic_run, 2, 0, true, true);
 		animation_add(ANIM_MAXRUN, spr_sonic_peelout, 0, 0, true, true);
@@ -13,8 +13,8 @@ function player_animation_list(){
 		animation_add(ANIM_SPINDASH, spr_sonic_spindash, 0.6, 0, true, false);
 		animation_add(ANIM_SPRING, spr_sonic_spring, 0.4, 0, true, false);
 		animation_add(ANIM_SKID, spr_sonic_skid, 0.4, 0, false, false);
-		animation_add(ANIM_SKIDTURN, spr_sonic_skidturn, 0.3, 0, false, false);
-		animation_add(ANIM_HURT, spr_sonic_hurt, 0.3, 0, false, false);
+		animation_add(ANIM_SKIDTURN, spr_sonic_skidturn, 0.4, 0, false, false);
+		animation_add(ANIM_HURT, spr_sonic_hurt, 0.1, 0, true, false);
 		animation_add(ANIM_DIE, spr_sonic_death, 0.3, 0, false, false);
 		animation_add(ANIM_DROWN, spr_sonic_drown, 0.3, 0, false, false);
 		animation_add(ANIM_BREATHE, spr_sonic_breathe, 16, 0, false, true);
