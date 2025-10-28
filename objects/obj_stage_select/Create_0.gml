@@ -5,6 +5,7 @@
 	
 	//The lists
 	zone_list = [["ARBOREAL AGATE", rm_arboreal_agate1, rm_arboreal_agate2],
+	["SKYLINE SQUARE", rm_skyline1],
 	["NATURADOME", rm_naturadome1]];
 	
 	reset_stage_data();

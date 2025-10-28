@@ -82,6 +82,7 @@
 	dev_menu_add_category("REGULAR STAGES");
 	dev_menu_add_entry("ARBOREAL AGATE ACT 1", rm_arboreal_agate1);
 	dev_menu_add_entry("2", rm_arboreal_agate2);
+	dev_menu_add_entry("SKYLINE SQUARE ACT 1", rm_skyline1);
 	dev_menu_add_entry("NATURADOME ACT 1", rm_naturadome1);
 	
 	//Add all of the rooms
