@@ -5,7 +5,7 @@
 		stage_music = BGM_ARBOREAL_1;
 		
 		//Set level name
-		stage_name = "EMPTY ROOM";
+		stage_name = "NATURADOME";
 		
 		//Set stage act
 		act = 1;
