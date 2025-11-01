@@ -525,6 +525,7 @@
     {"name":"spr_spring_horizontal_yellow","order":2,"path":"sprites/spr_spring_horizontal_yellow/spr_spring_horizontal_yellow.yy",},
     {"name":"spr_spring_vertical_yellow","order":1,"path":"sprites/spr_spring_vertical_yellow/spr_spring_vertical_yellow.yy",},
     {"name":"spr_ssz1_bg_layer_1","order":10,"path":"sprites/spr_ssz1_bg_layer_1/spr_ssz1_bg_layer_1.yy",},
+    {"name":"spr_ssz1_bg_layer_10_2","order":19,"path":"sprites/spr_ssz1_bg_layer_10_2/spr_ssz1_bg_layer_10_2.yy",},
     {"name":"spr_ssz1_bg_layer_10","order":8,"path":"sprites/spr_ssz1_bg_layer_10/spr_ssz1_bg_layer_10.yy",},
     {"name":"spr_ssz1_bg_layer_11","order":4,"path":"sprites/spr_ssz1_bg_layer_11/spr_ssz1_bg_layer_11.yy",},
     {"name":"spr_ssz1_bg_layer_13","order":2,"path":"sprites/spr_ssz1_bg_layer_13/spr_ssz1_bg_layer_13.yy",},
